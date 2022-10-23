@@ -1,0 +1,438 @@
+[
+  {
+  "reporting_entity_name": "United HealthCare Services, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "NATIONAL PPO",
+          "plan_id": "951985500",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PP1-00_P3_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_AARP-Employees-Welfare-Plan_NATIONAL-PPO_allowed-amounts.json.gz"
+      }
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "POS CHOICE PLUS",
+          "plan_id": "951985500",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_AARP-Employees-Welfare-Plan_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "UHC CHOICE/UBH",
+          "plan_id": "814124956",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "CANAL BARGE COMPANY, INC. EMPLOYEE'S WELFARE PLAN",
+          "plan_id": "720145535",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_VIRTA-HEALTH-DIRECT-CONTRACT_UNITEDHEALTHCARE-CHOICE-PLUS_-VIR_0L_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_CANAL-BARGE-COMPANY-INC-EMPLOYEES-WELFARE-PLAN_CANAL-BARGE-COMPANY-INC-EMPLOYEES-WELFARE-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "POS CHOICE PLUS",
+          "plan_id": "356515214",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_Central-Indiana-School-Employees-Insurance-Trust_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "CONSERVATION EMPLOYEES' BENEFITS PLAN GROUP HEALTH BENEFIT PLAN",
+          "plan_id": "431870797",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_UNITEDHEALTHCARE-CHOICE-PLUS_1H0L_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_CONSERVATION-EMPLOYEES-BENEFITS-PLAN-GROUP-HEALTH-BENEFIT-PLAN_CONSERVATION-EMPLOYEES-BENEFITS-PLAN-GROUP-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "UHC CHOICE/UBH",
+          "plan_id": "750825659",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_EP1-50_C1_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "UHC CHOICE PLUS/UBH",
+          "plan_id": "750825659",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "DAVIESS COUNTY EMPLOYEES HEALTH BENEFIT PLAN",
+          "plan_id": "356000136",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_OC24HEALTH_UNITEDHEALTHCARE-CHOICE-PLUS_-AHN_0L_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_DAVIESS-COUNTY-EMPLOYEES-HEALTH-BENEFIT-PLAN_DAVIESS-COUNTY-EMPLOYEES-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "POS CHOICE PLUS",
+          "plan_id": "440545275",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_GEHA---Government-Employees-Health-Association-Inc_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "NV PUBLIC EMPLOYEES' BENEFITS PROGRAM GROUP HEALTH BENEFIT PLAN",
+          "plan_id": "880378065",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_DOCTOR-ON-DEMAND-DCI_STATE-OF-NEVADA-NN-AND-OUTSIDE-NV_-DOD_1HNN_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_DOCTOR-ON-DEMAND-DCI_STATE-OF-NEVADA-EPO_-DOD_1HE1_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Cancer shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_CRS_MRRF.json"
+        },
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_DOCTOR-ON-DEMAND-DCI_STATE-OF-NEVADA-SOUTHERN-NEVADA_-DOD_1HSN_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_NV-PUBLIC-EMPLOYEES-BENEFITS-PROGRAM-GROUP-HEALTH-BENEFIT-PLAN_NV-PUBLIC-EMPLOYEES-BENEFITS-PROGRAM-GROUP-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "POS CHOICE PLUS",
+          "plan_id": "316401653",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_Ohio-Public-Employees-Retirement-System--OPERS_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "RUSH COUNTY EMPLOYEES GROUP BENEFIT PLAN",
+          "plan_id": "356000193",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_OC24HEALTH_RUSH-COUNTY-EMPLOYEES-W-UHC-CHOICE-PLUS_-AHN_RUS_in-network-rates.json.gz"
+        }
+      ]
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "UMR, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "SCHOOL EMPLOYEES' BENEFIT TRUST GROUP HEALTH BENEFIT PLAN",
+          "plan_id": "311327841",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_UMR--Inc-_Third-Party-Administrator_INTERACTIVE-HEALTH-SOLUTIONS-OC24HEALTH-DCI_UNITEDHEALTHCARE-CHOICE-PLUS_-TAH_0L_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_SCHOOL-EMPLOYEES-BENEFIT-TRUST-GROUP-HEALTH-BENEFIT-PLAN_SCHOOL-EMPLOYEES-BENEFIT-TRUST-GROUP-HEALTH-BENEFIT-PLAN_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "UHC CHOICE PLUS/UBH",
+          "plan_id": "362440414",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        },
+        {
+          "description": "in-network CMC Transplant shared files",
+          "location": "https://saticprod.blob.core.windows.net/optumeven/CMC_Transplant_MRRF.json"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_SELECT-EMPLOYEES-CREDIT-UNION_UHC-CHOICE-PLUSUBH_allowed-amounts.json.gz"
+      }
+    }
+  ]
+},
+  {
+  "reporting_entity_name": "United HealthCare Services, Inc.",
+  "reporting_entity_type": "Third-Party Administrator",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "POS CHOICE PLUS",
+          "plan_id": "113085143",
+          "plan_id_type": "EIN",
+          "plan_market_type": "group"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network files",
+          "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_United-HealthCare-Services--Inc-_Third-Party-Administrator_PS1-50_C2_in-network-rates.json.gz"
+        }
+      ],
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://uhc-tic-mrf.azureedge.net/public-mrf/2022-10-01/2022-10-01_Suffolk-School-Employees-Health-Plan_POS-CHOICE-PLUS_allowed-amounts.json.gz"
+      }
+    }
+  ]
+}
+]

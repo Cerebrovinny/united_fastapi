@@ -3,6 +3,7 @@
 import urllib.request as urllib2
 from bs4 import BeautifulSoup
 import json
+import os
 import csv
 import re
 
@@ -32,5 +33,24 @@ with open('links.csv', 'r') as f:
     for line in f:
         for link in line.split(","):
             if link != "":
-                print(link)
                 urllib2.urlretrieve(link, link.split("/")[-1])
+def get_all_json_files():
+    files = []
+    for file in os.listdir():
+        if file.endswith(".json"):
+            files.append(file)
+    return files
+
+files = get_all_json_files()
+
+#read files and write to a new json file
+
+def read_all_json_files(files):
+    data = []
+    for file in files:
+        with open(file, "r") as f:
+            data.append(json.load(f))
+    return data
+
+data = read_all_json_files(files)
+print(data)
